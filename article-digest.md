@@ -127,3 +127,45 @@ decision-making. Getting settled — financially, personally, professionally.
 - **Formula E is the anchor proof point** — lead with it for any technical role
 - Salary floor is CAD 50k, target 70k, open above that — don't filter out roles
   that pay well
+
+---
+
+## My Voice & Writing Style (for cover letters and any written output)
+
+### The vibe
+Smart, direct, early-career engineer who knows what he brings and is honest
+about what he's still learning. Confident without being arrogant. Human, not
+corporate. Short sentences. No fluff.
+
+### Hard rules -- never use these:
+- Em dashes anywhere, ever
+- "Spearheaded", "leveraged", "passionate about", "thrilled to", "excited to"
+- "Dynamic", "synergy", "innovative", "results-driven", "detail-oriented"
+- "I am writing to express my interest in..." (never open a cover letter this way)
+- Any phrase that sounds like it came from a LinkedIn post
+- Overly complex sentence structures -- if it needs to be read twice, rewrite it
+
+### What good looks like
+- Opens strong and specific, not generic
+- Mentions real things (Formula E, actual project outcomes, actual skills)
+- Honest about being early career -- frames it as hunger to learn, not apology
+- Sounds like a person wrote it at a desk, not a model trained on HR documents
+- Gets to the point fast
+
+### Sentence structure
+- Short. Medium. Occasionally longer when it earns it.
+- No padding. If a sentence doesn't add anything, cut it.
+- Active voice always.
+
+### What to highlight (in order of priority)
+1. Formula E powertrain work -- always lead with this for technical roles
+2. The mech + electrical bridging value
+3. Capstone 2nd place + team leadership angle for coordination roles
+4. WDZ for anything with a business or operational component
+5. Bilingual (PT/EN) for multinationals, especially LATAM-connected ones
+
+### Tone calibration by role type
+- Technical/engineering roles: more precise, less warm, let the work speak
+- Project/coordination roles: bring in the leadership and team dynamics story
+- Business/operations roles: lean on WDZ and the bridging value
+- Multinational with LATAM presence: mention Brazilian background naturally, not forced
