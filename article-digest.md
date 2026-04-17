@@ -137,18 +137,18 @@ Smart, direct, early-career engineer who knows what he brings and is honest
 about what he's still learning. Confident without being arrogant. Human, not
 corporate. Short sentences. No fluff.
 
-### Hard rules -- never use these:
+### Hard rules: never use these:
 - Em dashes anywhere, ever
 - "Spearheaded", "leveraged", "passionate about", "thrilled to", "excited to"
 - "Dynamic", "synergy", "innovative", "results-driven", "detail-oriented"
 - "I am writing to express my interest in..." (never open a cover letter this way)
 - Any phrase that sounds like it came from a LinkedIn post
-- Overly complex sentence structures -- if it needs to be read twice, rewrite it
+- Overly complex sentence structures: if it needs to be read twice, rewrite it
 
 ### What good looks like
 - Opens strong and specific, not generic
 - Mentions real things (Formula E, actual project outcomes, actual skills)
-- Honest about being early career -- frames it as hunger to learn, not apology
+- Honest about being early career, framing it as hunger to learn, not apology
 - Sounds like a person wrote it at a desk, not a model trained on HR documents
 - Gets to the point fast
 
@@ -158,7 +158,7 @@ corporate. Short sentences. No fluff.
 - Active voice always.
 
 ### What to highlight (in order of priority)
-1. Formula E powertrain work -- always lead with this for technical roles
+1. Formula E powertrain work. Always lead with this for technical roles.
 2. The mech + electrical bridging value
 3. Capstone 2nd place + team leadership angle for coordination roles
 4. WDZ for anything with a business or operational component
