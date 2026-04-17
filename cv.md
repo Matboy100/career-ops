@@ -1,48 +1,56 @@
-# CV -- Alex Chen
+# Matheus F. D. Resende
 
-**Location:** Austin, TX
-**Email:** alex@example.com
-**LinkedIn:** linkedin.com/in/alexchen
-**Portfolio:** alexchen.dev
-**GitHub:** github.com/alexchen
+Hamilton, ON | (365) 476-2346 | matheus1fdresende1@gmail.com | [linkedin.com/in/matheus-resende1](https://linkedin.com/in/matheus-resende1)
 
-## Professional Summary
+---
 
-Full-stack AI engineer with 6 years building production ML systems. Led the ML platform at a Series B fintech (2020-2024), scaling from 2 models to 15+ in production. Built real-time fraud detection (99.7% precision, $2M/year saved), recommendation engine (18% uplift), and an internal MLOps platform serving 4 engineering teams.
+## Profile
 
-## Work Experience
+Bachelor of Technology in Power and Energy student at McMaster University and Mechanical Engineering Technology graduate (Honours). Focus on FEA, thermal analysis, and powertrain systems. Proficient in SolidWorks and ANSYS. Hands-on experience with CNC and prototype fabrication. Fluent in Portuguese, English, and Spanish.
 
-### TechFin Corp -- Austin, TX
-**Senior ML Engineer / ML Platform Lead**
-2020-2024
-
-- Led ML platform team (3 engineers), built internal MLOps tooling: model registry, A/B testing framework, feature store
-- Designed real-time fraud detection pipeline: Kafka → feature computation → model inference → decision engine. 99.7% precision at 50ms p99
-- Built recommendation engine for lending products: collaborative filtering + LLM reranking. 18% conversion uplift
-- Reduced model deployment time from 2 weeks to 4 hours with CI/CD pipeline (GitHub Actions + SageMaker)
-- Established model monitoring: drift detection, performance dashboards (Grafana), automated retraining triggers
-
-### DataStartup Inc -- Remote
-**ML Engineer**
-2018-2020
-
-- Built NLP pipeline for document classification (BERT fine-tuning, 94% accuracy on legal docs)
-- Implemented search ranking with learning-to-rank models
-- Set up experiment tracking with MLflow and model versioning
-
-## Projects
-
-- **FraudShield** (Open Source) -- Real-time fraud detection framework. Kafka Streams + feature store + model serving. 500+ GitHub stars
-- **LLM Eval Toolkit** (Open Source) -- Evaluation framework for LLM applications. Supports custom metrics, regression testing, CI integration
+---
 
 ## Education
 
-- MS Computer Science, UT Austin (2018)
-- BS Computer Science, UC Berkeley (2016)
+**Bachelor of Technology – Power and Energy** | McMaster University, Hamilton, ON
+Sep 2025 – May 2027 *(in progress)*
+Courses: Industrial Networks & Communication Systems, Power Systems and Electrical Machines, System and Control, Power Systems Analysis and Control, Power Electronics, Senior Engineering Project, Artificial Intelligence
+
+**Advanced Diploma – Mechanical Engineering Technology (Honours)** | George Brown College, Toronto, ON
+Sep 2022 – May 2025
+Courses: Machine Design I & II, Capstone I & II, Advanced Mechanical CAD, Thermodynamics, Jig & Fixture Design, Strengths of Materials, Engineering Dynamics, Fluid Mechanics
+
+---
+
+## Experience
+
+**Powertrain Mechanical Member** | MAC Formula E – McMaster University | Sep 2025 – Present
+- Executed structural and thermal FEA using ANSYS to analyse heat dissipation for accumulator and battery pack systems
+- Designed mechanical components in SolidWorks for V6 models and eco-friendly drones
+- Performed precision inverter alignments and PCB tray production for powertrain systems
+- Collaborated on design reviews, safety verification, and data-driven performance evaluation
+
+**Co-Founder** | WDZ | May 2024 – Sep 2024
+- Co-founded and scaled a residential services enterprise from the ground up
+- Managed P&L oversight, pricing architecture, and territory-based customer acquisition
+- Led human capital management and client relationship strategy
+
+**Events Ambassador – Student Life Leadership** | George Brown College | Jan 2023 – Jun 2025
+- Led planning and execution of the Student Leadership Conference
+- Managed budgeting, resource allocation, and cross-functional coordination
+- Developed technical content and programs for high-stakes leadership events
+
+---
 
 ## Skills
 
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain
-- **MLOps:** SageMaker, MLflow, Kubeflow, Airflow, Feature Store
-- **Infra:** Kubernetes, Kafka, Redis, PostgreSQL, AWS
-- **Languages:** Python, Go, TypeScript, SQL
+**Technical:** SolidWorks, ANSYS (FEA & thermal), GD&T, AutoCAD, PSSE, Python, Excel, CNC/milling/laser cutting, Profinet, WinCC, PCB fabrication
+
+**Languages:** Portuguese (native), English (fluent), Spanish (fluent)
+
+---
+
+## Extracurriculars
+
+- MAC Formula E – McMaster University (Powertrain Team)
+- Braza – Brazilian Student Association, McMaster University
